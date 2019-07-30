@@ -1,2 +1,2 @@
-logging buffered 8000
-logging console
+show ip int br
+show version
